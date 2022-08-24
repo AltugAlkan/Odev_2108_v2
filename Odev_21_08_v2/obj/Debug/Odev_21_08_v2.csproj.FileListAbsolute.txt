@@ -1,0 +1,11 @@
+C:\Users\alkan\source\repos\Odev_21_08_v2\Odev_21_08_v2\bin\Debug\Odev_21_08_v2.exe.config
+C:\Users\alkan\source\repos\Odev_21_08_v2\Odev_21_08_v2\bin\Debug\Odev_21_08_v2.exe
+C:\Users\alkan\source\repos\Odev_21_08_v2\Odev_21_08_v2\bin\Debug\Odev_21_08_v2.pdb
+C:\Users\alkan\source\repos\Odev_21_08_v2\Odev_21_08_v2\obj\Debug\Odev_21_08_v2.csproj.AssemblyReference.cache
+C:\Users\alkan\source\repos\Odev_21_08_v2\Odev_21_08_v2\obj\Debug\Odev_21_08_v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\alkan\source\repos\Odev_21_08_v2\Odev_21_08_v2\obj\Debug\Odev_21_08_v2.PersonelKayitFormu.resources
+C:\Users\alkan\source\repos\Odev_21_08_v2\Odev_21_08_v2\obj\Debug\Odev_21_08_v2.Properties.Resources.resources
+C:\Users\alkan\source\repos\Odev_21_08_v2\Odev_21_08_v2\obj\Debug\Odev_21_08_v2.csproj.GenerateResource.cache
+C:\Users\alkan\source\repos\Odev_21_08_v2\Odev_21_08_v2\obj\Debug\Odev_21_08_v2.csproj.CoreCompileInputs.cache
+C:\Users\alkan\source\repos\Odev_21_08_v2\Odev_21_08_v2\obj\Debug\Odev_21_08_v2.exe
+C:\Users\alkan\source\repos\Odev_21_08_v2\Odev_21_08_v2\obj\Debug\Odev_21_08_v2.pdb
